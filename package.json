@@ -1,0 +1,26 @@
+{
+  "name": "reliable-calculator",
+  "version": "1.0.0",
+  "description": "A simple CLI calculator for basic Add, Subtract, Multiply and Divide operators. Just a quick reference project for unit testing using Node.js and Mocha.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davneto/reliable-calculator.git"
+  },
+  "keywords": [
+    "Unit-testing",
+    "Mocha.js"
+  ],
+  "author": "David Neto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davneto/reliable-calculator/issues"
+  },
+  "homepage": "https://github.com/davneto/reliable-calculator#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
